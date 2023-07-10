@@ -1,0 +1,27 @@
+{
+  "name": "com.ultra.authentication",
+  "version": "0.3.0-experimental",
+  "displayName": "Ultra Auth Plugin",
+  "description": "This package allows you to get a seamless authentication of your players within the Ultra ecosystem.",
+  "unity": "2019.3",
+  "dependencies": {
+    "nuget.moq": "1.0.0"
+  },
+  "keywords": [
+    "Ultra",
+    "Blockchain"
+  ],
+  "author": {
+    "name": "Ultra",
+    "email": "support@ultra.io",
+    "url": "https://ultra.io"
+  },
+  "type": "tool",
+  "samples": [
+    {
+        "displayName": "Ultra Scenes Examples",
+        "description": "Contains scenes with Ultra Authentication example",
+      "path": "Samples~/Scenes"
+    }
+  ]
+}

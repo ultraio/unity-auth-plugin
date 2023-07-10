@@ -1,0 +1,11 @@
+{
+    "name": "Ultra.Authentication.Tests.Editor",
+    "references": [
+        "Ultra.Authentication",
+        "Ultra.Authentication.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
